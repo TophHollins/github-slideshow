@@ -1,5 +1,5 @@
-layout: slide
-title: "Welcome to our second slide!"
-
-Your text
-use the left arrow to go back
++ layout: slide
++ title: "Welcome to our second slide!"
++
++ Your text
++ use the left arrow to go back
